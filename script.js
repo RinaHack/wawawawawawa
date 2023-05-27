@@ -867,8 +867,3 @@ function sendMessageOperationClient() {
 
 
 setInterval(sendMessageOperationClient, 30000)
-
-
-// ://:doomed2.io/**
-// ://:          /**
-
